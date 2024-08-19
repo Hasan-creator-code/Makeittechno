@@ -1,0 +1,297 @@
+* {
+    font-family: roboto;
+    font-weight: thin;
+    margin: 0%;
+    padding: 0%;
+}
+.container-fluid{
+    background-color: black;
+}
+#carouselExample{
+    width: 100%;
+}
+body p {
+    font-weight: 120;
+    font-size: 18px;
+}
+.navh a {
+    font-weight: 120;
+}
+.navh li a:hover {
+    color: white;
+}
+.logomain button {
+    background-color: white;
+    opacity: 20%;
+}
+
+.par {
+    font-family: roboto;
+    font-weight: thin;
+}
+.logomain img {
+    height: 50px;
+}
+.navbar-light .navbar-toggler-button {
+    background-color: aqua;
+}
+
+.navcolor {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.navcolor li {
+    color: white;
+}
+.navcolor a {
+    color: white;
+}
+.make1 .midinfo h4 {
+    font-weight: 150;
+}
+.make1 a {
+    color: white;
+}
+.navi {
+    background-color: #001743;
+    color: white;
+}
+.img1 img {
+    width: 100%;
+    height: 760px;
+    opacity: 95%;
+}
+.topic1 {
+    font-size: 50px;
+    font-weight: 120;
+}
+.topic2 {
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 120;
+    justify-content: left;
+}
+.midinfo li {
+    align-items: center;
+}
+.midinfo1 li {
+    margin-left: auto;
+}
+
+.one1 {
+    margin-left: 150px;
+}
+
+.card1 {
+    font-weight: 120;
+    align-items: center;
+}
+
+.topic3 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 120;
+}
+
+.vent h3 {
+    text-align: center;
+    font-weight: 120;
+}
+.backgroundimg {
+    background-color: black;
+    color: white;
+    height: 300px;
+    margin-top: 70px;
+}
+.backgroundimg h4 {
+    font-weight: 120;
+    text-align: center;
+}
+.foot img {
+    height: 50px;
+    width: 50px;
+}
+.foot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.abou1 {
+    font-size: 50px;
+    font-weight: 120;
+    padding-top: 70px;
+    text-align: center;
+}
+
+.abou2 {
+    font-size: 20px;
+    font-weight: 120;
+    text-align: center;
+}
+
+.topic3 {
+    font-size: 20px;
+    font-weight: 200;
+    margin-top: 30px;
+    text-align: left;
+    margin-left: 200px;
+}
+
+/* foot */
+.vent h3 {
+    text-align: center;
+    font-weight: 120;
+}
+.backgroundimg {
+    background-color: black;
+    color: white;
+    height: 400px;
+    margin-top: 70px;
+    align-items: center;
+}
+.backgroundimg1 img {
+    height: 150px;
+}
+.backgroundimg h4 {
+    font-weight: 120;
+    text-align: center;
+}
+.foot img {
+    height: 50px;
+    width: 50px;
+}
+.foot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form1 table {
+    font-weight: 120px;
+    margin-top: 50px;
+    border: 0.2px solid rgb(62, 62, 62);
+}
+.label1 {
+    border: 0.3px solid rgb(195, 195, 195);
+    border-radius: 10px;
+    background-color: hsl(219, 49%, 88%);
+    color: white;
+}
+.label2 {
+    margin-top: 8px;
+}
+
+.topic5 {
+    font-size: 50px;
+    font-weight: 120;
+    padding-top: 100px;
+}
+.topic6 {
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 120;
+}
+.topic7 {
+    font-size: 50px;
+    font-weight: 120;
+    padding-top: 10px;
+}
+.topic8 {
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 120;
+}
+.topic25 {
+    font-size: 50px;
+    font-weight: 120;
+    padding-top: 100px;
+}
+.topic26 {
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 120;
+}
+.topic9 {
+    font-size: 50px;
+    font-weight: 120;
+    padding-top: 10px;
+}
+.topic10 {
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 120;
+}
+.topic11 {
+    font-size: 50px;
+    font-weight: 120;
+    padding-top: 50px;
+}
+.topic12 {
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 120;
+}
+.topic13 {
+    font-size: 50px;
+    font-weight: 120;
+    padding-top: 70px;
+} 
+.topic14 {
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 120;
+}
+.topic15 {
+    font-size: 50px;
+    font-weight: 120;
+    padding-top: 70px;
+}
+.topic16 {
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 120;
+}
+.topic17 {
+    font-size: 50px;
+    font-weight: 120;
+    padding-top: 80px;
+}
+.topic18 {
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 120;
+}
+.topic19 {
+    font-size: 50px;
+    font-weight: 120;
+    padding-top: 90px;
+}
+.topic20 {
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 120;
+}
+.topic21 {
+    font-size: 50px;
+    font-weight: 120;
+    padding-top: 90px;
+}
+.topic22 {
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 120;
+}
+.topic23 {
+    font-size: 50px;
+    font-weight: 120;
+    padding-top: 90px;
+}
+.topic24 {
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 120;
+}
+.label1 ::placeholder {
+    opacity: 50%;
+}
